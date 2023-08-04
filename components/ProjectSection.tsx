@@ -6,6 +6,14 @@ import { BsGithub, BsArrowUpLeftSquare } from 'react-icons/bs';
 
 const projects = [
     {
+        name: 'Car showcase',
+        description:
+            'Carhub is a web app which is a car renting company website to provide car booking and renting service.',
+        image: '/carhub.png',
+        github: 'https://github.com/wongyunlam/car-showcase',
+        link: 'https://car-showcase-nine-alpha.vercel.app/',
+    },
+    {
         name: 'Thankful Thoughts',
         description:
             'ThankfulThoughts is a web app that generates an appreciative sentence of something or someone you are thankful for.',
