@@ -26,21 +26,11 @@ function Footer() {
                         />
                     </a>
                     <a
-                        href="https://github.com/wongyunlam"
+                        href="https://www.linkedin.com/in/yun-lam-wong-45784a205/"
                         rel="noreferrer"
                         target="_blank"
                     >
                         <AiOutlineLinkedin
-                            size={30}
-                            className="hover:-translate-y-1 transition-transform cursor-pointer text-neutral-500 dark:text-neutral-100"
-                        />
-                    </a>
-                    <a
-                        href="https://github.com/wongyunlam"
-                        rel="noreferrer"
-                        target="_blank"
-                    >
-                        <AiOutlineTwitter
                             size={30}
                             className="hover:-translate-y-1 transition-transform cursor-pointer text-neutral-500 dark:text-neutral-100"
                         />

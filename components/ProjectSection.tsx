@@ -14,28 +14,11 @@ const projects = [
         link: 'https://car-showcase-nine-alpha.vercel.app/',
     },
     {
-        name: 'Thankful Thoughts',
-        description:
-            'ThankfulThoughts is a web app that generates an appreciative sentence of something or someone you are thankful for.',
+        name: 'Projects updating...',
+        description: 'More projects are coming soon!',
         image: '/profile-picture.PNG',
-        github: 'https://github.com/jay/thankful-thoughts',
-        link: 'https://jay.io/',
-    },
-    {
-        name: 'PlatoIO',
-        description:
-            'PlatoIO is a to do list app that built using the PERN stack.',
-        image: '/profile-picture.PNG',
-        github: 'https://github.com/jay/platoio',
-        link: 'https://platoio.jay/register',
-    },
-    {
-        name: 'Kator Family Photos',
-        description:
-            'Kator Family Photos is a photos and video digitization service in the LA area.',
-        image: '/profile-picture.PNG',
-        github: 'https://github.com/jay/katorfamilyphotos',
-        link: 'https://jay.com/',
+        github: 'https://github.com/wongyunlam',
+        link: 'https://jaybwong.vercel.app/',
     },
 ];
 
