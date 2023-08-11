@@ -34,7 +34,7 @@ function AboutSection() {
                             <span className="font-bold">highly ambigious</span>,{' '}
                             <span className="font-bold">self-motivated</span>,
                             and <span className="font-bold">driven</span>{' '}
-                            Frontend web developer based in Toronto, ON.
+                            Frontend web developer based in Taiwan.
                         </p>
                         <br />
                         <p>

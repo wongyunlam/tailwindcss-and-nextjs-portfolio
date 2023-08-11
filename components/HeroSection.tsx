@@ -28,7 +28,7 @@ function HeroSection() {
                         <span className="font-semibold text-teal-600">
                             Frontend Web Developer
                         </span>{' '}
-                        based in Toronto, ON. Working towards creating software
+                        based in Taiwan, ON. Working towards creating software
                         that makes life easier and more meaningful.
                     </p>
                     <Link
