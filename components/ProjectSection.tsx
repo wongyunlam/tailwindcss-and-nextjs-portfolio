@@ -14,6 +14,14 @@ const projects = [
         link: 'https://car-showcase-nine-alpha.vercel.app/',
     },
     {
+        name: 'Social Media App',
+        description:
+            'A facebook-like social app with register, login, add friends function, etc.',
+        image: '/2023-09-20 202338.png',
+        github: 'https://github.com/wongyunlam/mern-social-media__frontend',
+        link: 'https://mern-social-media-frontend-murex.vercel.app//',
+    },
+    {
         name: 'Projects updating...',
         description: 'More projects are coming soon!',
         image: '/profile-picture.PNG',
