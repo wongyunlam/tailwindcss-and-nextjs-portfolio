@@ -28,8 +28,8 @@ function HeroSection() {
                         <span className="font-semibold text-teal-600">
                             Frontend Web Developer
                         </span>{' '}
-                        based in Toronto, ON. Working towards creating software
-                        that makes life easier and more meaningful.
+                        based in Taiwan. Working towards creating software that
+                        makes life easier and more meaningful.
                     </p>
                     <Link
                         className="text-neutral-100 font-semibold bg-teal-600 hover:bg-teal-700 py-3 px-6 rounded cursor-pointer"
